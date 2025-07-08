@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed or call me Memu</h1>
 <h3 align="center">AI / Machine Learning / Deep Learning Enthusiast 🚀</h3>
 ---
-![Profile views](https://komarev.com/ghpvc/?username=MemuSAE&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MemuSAE&color=blue&style=flat-square" alt="Profile views"/>
+</p>
 ---
 
 💡 **About Me**
@@ -23,6 +25,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MemuSAE&show_icons=true&theme=react&border_radius=10&hide_title=false" alt="GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemuSAE&layout=compact&theme=react&border_radius=10" alt="Top Languages" height="200"/>
+</p>
 ---
 
 📫 **Reach Me**
