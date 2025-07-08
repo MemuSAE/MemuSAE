@@ -9,11 +9,11 @@
 
 💡 **About Me**
 
-- 🎓 I'm passionate about everything related to **AI**, **Machine Learning**, and **Deep Learning**.
+- 🎓 I'm passionate about everything related to **AI**, **Machine Learning**,**Deep Learning** and **Data**.
 - 🧠 Always learning and exploring new tools, models, and technologies in the AI space.
 - 📊 I enjoy turning data into insights and building smart systems that solve real-world problems.
-- 💻 Currently working on: `Zero123++`, `ShapeNet`, and custom vision models.
-- 🌱 Learning: Generative AI, Vision Transformers, and Model Fine-tuning.
+- 🌱 Currently diving deep into: Generative AI, Vision Transformers, and Model Fine-tuning.
+  
 
 ---
 
@@ -39,9 +39,9 @@
 
 📫 **Reach Me**
 
-- 💌 Email: [your-email@example.com]
-- 💬 Ask me anything about AI/ML
-- 📂 Portfolio: (Coming soon...)
+- 💌 Email: [mohawk.2moh@gmail.com](mailto:mohawk.2moh@gmail.com)
+- 💼 LinkedIn: [mohammed-ahmed-24b09821a](https://www.linkedin.com/in/mohammed-ahmed-24b09821a/)
+- 🤗 Hugging Face: [MeMUSAE](https://huggingface.co/MeMUSAE)
 
 ---
 
