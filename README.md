@@ -13,6 +13,8 @@
 - 🧠 Always learning and exploring new tools, models, and technologies in the AI space.
 - 📊 I enjoy turning data into insights and building smart systems that solve real-world problems.
 - 🌱 Currently diving deep into: Generative AI, Vision Transformers, and Model Fine-tuning.
+- 📌 My graduation project was fine-tuning **Zero123++** for multi-view synthesis — you can find it on my [LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-24b09821a/).
+
   
 
 ---
