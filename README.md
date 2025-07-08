@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
+<h1 align="center">Hi 👋, I'm Muhammed or call me Memu</h1>
 <h3 align="center">AI / Machine Learning / Deep Learning Enthusiast 🚀</h3>
 
 <p align="center">
