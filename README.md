@@ -12,6 +12,8 @@
 - 📌 My graduation project was fine-tuning **Zero123++** for multi-view synthesis — you can find it on my [LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-24b09821a/).
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=MemuSAE&color=blue&style=flat-square)
+---
 
 🛠️ **Languages & Tools I Use**
 
