@@ -22,17 +22,22 @@ class MeMu:
         self.name = "Muhammed Ahmed"
         self.role = "AI/ML Engineer"
         self.location = "Cairo, Egypt 🇪🇬"
-        self.interests = [
+        self.expertise = [
             "Generative AI",
             "Computer Vision", 
             "Vision Transformers",
             "Model Fine-tuning",
-            "3D Synthesis"
-        ]
-        self.currently_learning = [
+            "3D Synthesis",
             "Advanced Diffusion Models",
             "Multi-modal AI Systems",
-            "LLM Fine-tuning Techniques"
+            "LLM Fine-tuning Techniques",
+            "Data Analysis & Data Science",
+            "Market Analysis & Trading"
+        ]
+        self.interests = [
+            "Stock Market Trading",
+            "Financial Markets",
+            "Algorithmic Trading"
         ]
     
     def say_hi(self):
@@ -46,7 +51,8 @@ me.say_hi()
 
 - 🎓 **Education**: Specialized in AI, Machine Learning & Deep Learning
 - 🏆 **Graduation Project**: Fine-tuned **Zero123++** for advanced multi-view synthesis — [See details on LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-24b09821a/)
-- 🔬 **Focus Areas**: Generative AI, Vision Transformers, Model Optimization
+- 🔬 **Focus Areas**: Generative AI, Vision Transformers, Model Optimization, Data Science
+- 📈 **Market Enthusiast**: Stock Trading, Market Analysis & Financial Data
 - 💡 **Philosophy**: Turning cutting-edge research into practical solutions
 
 ---
@@ -69,11 +75,14 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Libraries & Platforms
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### Data Science & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### AI/ML Platforms
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
 ---
 
@@ -90,19 +99,20 @@ me.say_hi()
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Expertise & Interests
 ```
-📚 Learning:  Advanced Diffusion Models & Multi-modal AI
-🔨 Building:  Open-source ML projects & Model Experiments  
-🎯 Goal:      Contributing to cutting-edge AI research
-💬 Ask me:    Anything about PyTorch, Computer Vision, or Generative AI
+🤖 AI/ML:        Generative AI | Vision Transformers | Model Fine-tuning
+📊 Data:         Data Analysis | Data Science | Statistical Modeling
+📈 Markets:      Stock Trading | Market Analysis | Financial Data
+🔨 Building:     Open-source ML projects & Intelligent Systems
+💬 Ask me:       Anything about PyTorch, Computer Vision, or Trading Strategies
 ```
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on innovative AI projects, discuss research ideas, or just chat about the latest developments in machine learning!
+I'm always excited to collaborate on innovative AI projects, discuss research ideas, trading strategies, or just chat about the latest developments in machine learning and financial markets!
 
 <div align="center">
 
